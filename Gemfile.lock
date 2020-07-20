@@ -123,7 +123,7 @@ GEM
     statistics2 (0.54)
     thor (0.20.0)
     thread_safe (0.3.6)
-    yard (0.9.9)
+    yard (0.9.25)
 
 PLATFORMS
   ruby

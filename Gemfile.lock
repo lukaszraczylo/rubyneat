@@ -20,7 +20,7 @@ GEM
     docile (1.1.5)
     faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18)
+    ffi (1.12.2)
     formatador (0.2.5)
     git (1.3.0)
     github_api (0.18.1)
